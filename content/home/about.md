@@ -4,7 +4,7 @@ widget_id: bio
 headless: true
 weight: 20
 title: Biography
-active: true
+active: false
 author: admin
 ---
 Test 123
