@@ -18,9 +18,9 @@ bio: My research interests include ....
 
 # Interests to show in About widget
 interests:
-- 1
-- 2
-- 3
+- Law and political economy
+- Computational social science and network analysis
+- Contracts, corporate finance, and bankruptcy
 
 # Education to show in About widget
 education:
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a legal scholar and PhD student in sociology at Princeton University, where I focus on the socio-legal study of corporate power, relations of debt and credit, and informational capitalism. My current research combines advanced quantitative and computational methods with doctrinal and comparative-historical analyses to investigate how legal infrastructures construct the economy and to understand the distributional patterns and social consequences they generate.
+I am a legal scholar and PhD student in sociology at Princeton University, where I focus on the socio-legal study of corporate finance, relations of debt and credit, and informational capitalism. My current research combines advanced quantitative and computational methods with doctrinal analyses to investigate how legal infrastructures construct the economy and to understand the distributional patterns and social consequences they generate.
 
-I am also a lawyer in Quebec (Canada), where I practiced in civil and commercial litigation for five years. Before coming to Princeton, I studied the interaction of codified law and moral considerations in judges' reasoning, its relation to socioeconomic history, and its impacts on substantive law. My [thesis](https://dx.doi.org/10.2139/ssrn.3812636) combined comparative-historical and doctrinal analyses to theorize the emergence, scope, and purpose of judicially created barriers to legal action in Quebec private law. 
+I am a lawyer in Quebec (Canada), where I practiced in civil and commercial litigation for five years. Before coming to Princeton, I studied the interaction of codified law and moral considerations in judges' reasoning, its relation to socioeconomic history, and its impacts on substantive law. My [thesis](https://dx.doi.org/10.2139/ssrn.3812636) combined comparative-historical and doctrinal analyses to theorize the emergence, scope, and purpose of judicially created barriers to legal action in Quebec private law. 
