@@ -10,7 +10,7 @@ role: Lawyer, legal scholar, and social scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: PhD student, Princeton University
+- name: PhD candidate, Princeton University
   url: https://sociology.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mlaprise@princeton.edu'
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/marieloulaprise
+  link: https://mathstodon.xyz/@mlaprise
 - icon: google-scholar # use graduation-cap from fas or `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=lUKTz88AAAAJ
@@ -70,11 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in sociology at Princeton University, where I focus on the socio-legal study of corporate behavior, relations of debt and credit, and the information economy. I am also a lawyer in Quebec (Canada), where I practiced in civil and commercial litigation for five years. My research combines quantitative and computational methods with interviews and doctrinal analyses to investigate how legal infrastructures construct the economy and to understand the social consequences they generate.
-
-* How can we remedy the great [asymmetries](https://scholarship.law.columbia.edu/faculty_scholarship/2852/) of [power](https://www.benkler.org/Degrees_of_Freedom_Dimensions_of_Power_Final.pdf) of today's digital economy? How can we achieve a more [collaborative](https://cyber.harvard.edu/events/2011/10/benkler) ordering of data as a [collective resource](https://www.yalelawjournal.org/feature/a-relational-theory-of-data-governance)? Can reforming the [legal infrastructure](https://press.princeton.edu/books/paperback/9780691208602/the-code-of-capital) of the digital economy help to reduce social inequality and [disinformation](https://library.oapen.org/handle/20.500.12657/28351) and to sustain participatory democracy? 
-* These are urgent questions. Answering them requires casting light on the inner workings of the beating heart of the digital economy: the data industry. 
-* My dissertation looks at the firms, lawyers, engineers, and data scientists involved in the global data industry. It examines how they create and manage markets of data and predictions, what law and technology they rely on, how they combine relational, legal, and algorithmic work to control flows of information, and what meaning they give to their activities.
+I am a PhD candidate in sociology at Princeton University, where I focus on the socio-legal study of corporate power, forecasting and valuation practices, and traders of debt and data in the digital economy. My research combines qualitative and computational methods to investigate how legal infrastructures construct the economy and to understand the social consequences they generate. I am a lawyer in Quebec (Canada), where I practiced in civil and commercial litigation for five years. 
 
 I am also a co-PI at Princeton's [Debt Collection Lab](https://debtcollectionlab.org/), where I study debt collection lawsuits and inequality in the United States and help make data about private debt collectors accessible to the greater public, and a co-founder of the Princeton chapter of the [Law and Political Economy (LPE) Project](https://lpeproject.org/).
 
