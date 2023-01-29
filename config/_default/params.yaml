@@ -2,7 +2,9 @@
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
+marketing:
+  google_analytics: 'G-5C72ETDGGD'
+  
 # Appearance
 
 theme: minimal
@@ -136,12 +138,6 @@ map:
   provider: ''
   api_key: ''
   zoom: 15
-marketing:
-  google_analytics: 'G-5C72ETDGGD'
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
