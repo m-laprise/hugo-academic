@@ -18,16 +18,18 @@ bio: ...
 
 # Interests to show in About widget
 interests:
-- Contracts, corporate law, and information technology law
-- Organizational behavior
-- Computational social science and network analysis
+- Information technology law and AI regulation, remedies, business law
+- Human-AI interaction and social decision-making
+- Computational social science, large language models, and agent-based modeling
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in progress
-    institution: Princeton University
+    institution: Princeton University, Department of Sociology
     year: 2020-...
+  - course: Graduate certificate in statistics and machine learning (in progress)
+    institution: Princeton University
   - course: LL.M. (comparative law, with thesis)
     institution: University of Montreal
     year: 2021
@@ -70,8 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate in sociology at Princeton University, where I focus on the socio-legal study of corporate power, forecasting and valuation practices, and traders of debt and data in the digital economy. My research combines qualitative and computational methods to investigate how legal infrastructures construct the economy and to understand the social consequences they generate. I am a lawyer in Quebec (Canada), where I practiced in civil and commercial litigation for five years. 
+I am a PhD candidate at Princeton University, where I combine computational methods with legal analysis and social theory to study the **impact of machine learning on social decision-making**. My research at the interface of *law*, *sociology*, and *computer science and engineering* investigates corporate power in the **data and analytics industry** and **human-AI interaction** in courts and financial markets. In the process of doing that work, I also tinker with local language models and think about how they can be made smaller and more helpful to researchers and communities, rather than large corporations.
 
-I am also a co-PI at Princeton's [Debt Collection Lab](https://debtcollectionlab.org/), where I study debt collection lawsuits and inequality in the United States and help make data about private debt collectors accessible to the greater public, and a co-founder of the Princeton chapter of the [Law and Political Economy (LPE) Project](https://lpeproject.org/).
+I am a co-PI at Princeton's [Debt Collection Lab](https://debtcollectionlab.org/), where I study debt collection lawsuits and inequality in the United States and help make data about private debt collectors accessible to the greater public, and a co-founder of the Princeton chapter of the [Law and Political Economy (LPE) Project](https://lpeproject.org/).
 
-Before coming to Princeton, I was at the Faculty of Law of the University of Montreal, where I studied the interaction of codified law and moral considerations in judges' reasoning, its relation to socioeconomic history, and its impacts on substantive law. My [thesis](https://dx.doi.org/10.2139/ssrn.3812636), which combined comparative-historical and doctrinal analyses to theorize judicially created barriers to legal action in Quebec, has won the 2022 [excellence prize](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires-2008-2021/) of the Quebec Association of Law Professors.
+I am a lawyer in Quebec (Canada), where I practiced in civil and commercial litigation for five years. Before coming to Princeton, I was at the Faculty of Law of the University of Montreal, where I studied the interaction of codified law and moral considerations in judicial decision-making and its relation to socioeconomic history. My [thesis](https://dx.doi.org/10.2139/ssrn.3812636), which combined comparative-historical and doctrinal analyses to theorize judicially created barriers to legal action, has won the 2022 [excellence prize](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires-2008-2021/) of the Quebec Association of Law Professors.
