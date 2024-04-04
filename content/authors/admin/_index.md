@@ -6,7 +6,7 @@ title: Marie-Lou Laprise
 superuser: true
 
 # Role/position/tagline
-role: Lawyer, legal scholar, and social scientist 
+role: Lawyer and computational social scientist 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,18 +18,16 @@ bio: ...
 
 # Interests to show in About widget
 interests:
-- Information technology law and AI regulation, remedies, business law
-- Human-AI interaction and social decision-making
-- Computational social science, large language models, and agent-based modeling
+- Law & AI, corporate finance, financial regulation
+- Decision-making, collective intelligence, human-AI interaction
+- Neural networks, large language models, dynamical systems and complexity
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in progress
-    institution: Princeton University, Department of Sociology
+    institution: Princeton University, Department of Sociology and Center for Statistics and Machine Learning
     year: 2020-...
-  - course: Graduate certificate in statistics and machine learning (in progress)
-    institution: Princeton University
   - course: LL.M. (comparative law, with thesis)
     institution: University of Montreal
     year: 2021
@@ -72,8 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate at Princeton University, where I combine computational methods with legal analysis and social theory to study the **impact of machine learning on social decision-making**. My research at the interface of *law*, *sociology*, and *computer science and engineering* investigates corporate power in the **data and analytics industry** and **human-AI interaction** in courts and financial markets. In the process of doing that work, I also tinker with local language models and think about how they can be made smaller and more helpful to researchers and communities, rather than large corporations.
+I am a PhD candidate at Princeton University, where I am also completing a graduate certificate at the Center for Statistics and Machine Learning. I study the impact of **machine learning** on **social decision-making**, with a focus on markets and regulation. My work at the interface of *AI*, *finance*, *law*, and *sociology* asks how data-driven technologies are reconfiguring flows and distributions of information and wealth, in **financial markets** and beyond. I also investigate complex reasoning in **large language models** and evaluate whether and how they can be successful at legal reasoning.
 
-I am a co-PI at Princeton's [Debt Collection Lab](https://debtcollectionlab.org/), where I study debt collection lawsuits and inequality in the United States and help make data about private debt collectors accessible to the greater public, and a co-founder of the Princeton chapter of the [Law and Political Economy (LPE) Project](https://lpeproject.org/).
+I am a co-PI at Princeton's [Debt Collection Lab](https://debtcollectionlab.org/), where our team studies debt collection lawsuits and inequality in the United States and help make data about private debt collectors accessible to the greater public.
 
-I am a lawyer in Quebec (Canada), where I practiced in civil and commercial litigation for five years. Before coming to Princeton, I was at the Faculty of Law of the University of Montreal, where I studied the interaction of codified law and moral considerations in judicial decision-making and its relation to socioeconomic history. My [thesis](https://dx.doi.org/10.2139/ssrn.3812636), which combined comparative-historical and doctrinal analyses to theorize judicially created barriers to legal action, has won the 2022 [excellence prize](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires-2008-2021/) of the Quebec Association of Law Professors.
+In the private sector, I practiced as a **commercial trial lawyer** in downtown Montreal (Canada) for five years. I handled high-stakes litigation involving shareholder rights, complex tax planning, and trademark infringement, I advised business owners on their litigation risks, and I participated in a variety of corporate transactions.
+
+Before coming to Princeton, I was at the Faculty of Law of the University of Montreal, where I studied judicial discretion and decision-making by judges and courts, and its relation to socioeconomic history. My [thesis](https://dx.doi.org/10.2139/ssrn.3812636) has won the 2022 [excellence prize](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires-2008-2021/) of the Quebec Association of Law Professors.

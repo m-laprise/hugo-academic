@@ -5,17 +5,14 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: /
     weight: 10
   - name: Research
-    url: '#research'
+    url: "/#research"
     weight: 20
-  - name: Teaching materials
-    url: '#teaching'
-    weight: 30  
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
+  # - name: Teaching materials
+  #   url: "/#teaching"
+  #   weight: 30  
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40

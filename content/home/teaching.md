@@ -3,7 +3,7 @@ title: Teaching materials
 summary: 
 tags:
 - Law and Political Economy
-date: "2016-04-27T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 
 image:
   caption: 
