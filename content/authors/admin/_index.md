@@ -18,9 +18,9 @@ bio: ...
 
 # Interests to show in About widget
 interests:
-- Law & AI, corporate finance, financial regulation
-- Decision-making, collective intelligence, human-AI interaction
-- Neural networks, large language models, dynamical systems and complexity
+- Decision-making, collective intelligence, social prediction
+- Neural networks, large language models, complex systems
+- Law & AI, torts, financial regulation
 
 # Education to show in About widget
 education:
@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mlaprise@princeton.edu'
-- icon: mastodon
-  icon_pack: fab
-  link: https://mathstodon.xyz/@mlaprise
+#- icon: mastodon
+#  icon_pack: fab
+#  link: https://mathstodon.xyz/@mlaprise
 - icon: google-scholar # use graduation-cap from fas or `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=lUKTz88AAAAJ
