@@ -16,17 +16,15 @@ sections:
     content:
       title: Research Program
       text: |-
-        I believe one of the key questions of our time is how an information ecosystem characterized by massive amounts of linked digital data and the large-scale deployment of predictive, generative, and agentic AI systems is reshaping markets and social institutions.
+        One of the key questions of our time is how an information ecosystem characterized by massive amounts of linked digital data and the large-scale deployment of predictive, generative, and agentic AI systems will reshape markets and social institutions.
 
         My postdoctoral projects tackle this question and examine **how unequal distributions of information and computational capacity change collective decision-making, market dynamics, and the rules needed to govern institutions**. I approach this problem from two complementary directions: by modeling collective computation under unequal access to information, and by examining how law should adapt to AI-driven changes in the scale of social activity.
 
-        ### Learned Multi-Agent Collective Prediction
+        ### Learned Multi-Agent Collective Computation
 
-        I develop a learned multi-agent paradigm for reconstructing objective structure from distributed partial observations. The project tests when communication produces **generalizable collective prediction** and how persistent **inequality in access to evidence** changes group accuracy, individual competence, and dependence on advantaged agents.
+        I develop a new modeling paradigm for studying **collective computation** in networks of complex learning agents. Small transformers, each observing only part of an objective structure, learn both a structured prediction task and how to communicate contextually with their neighbors. The project examines when communication improves collective learning, whether agents specialize, and how **unequal access to evidence** shapes individual and group performance.
 
-        I run controlled experiments by pre-training groups of **small transformers** from scratch in PyTorch, tracking runs in Weights & Biases and running jobs on clusters of multiple GPUs.
-
-        I will use this framework to study how changes in the distribution of information and computational capacity across society reshape collective outcomes, inequality, and institutional dependence.
+        {{< abstract "project-multi-agent-details.md" "Learn more" >}}
 
         ### Scale-Aware Law for Generative and Agentic AI
 

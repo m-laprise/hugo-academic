@@ -18,9 +18,9 @@ bio: Sociologist studying how AI reshapes markets, institutions, and collective 
 
 # Interests to show in About widget
 interests:
-- Information asymmetries in markets and institutions
 - Multi-agent learning and collective intelligence
-- AI and big data in financial markets
+- Information asymmetries in markets and institutions
+- Machine learning and alternative data in financial markets
 - Law and policy for generative and agentic AI
 
 # Education to show in About widget
@@ -60,6 +60,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a sociologist studying how AI reshapes markets, institutions, and collective intelligence. I completed my doctoral research in Princeton University's Department of Sociology and am now a Postgraduate Research Associate in the department. My research combines economic sociology, legal analysis, and quantitative and computational methods to study the transformation of financial markets and economic actors after the digital turn, and the social, technical, and regulatory implications of multi-agent AI systems. I also work on the responsible use of AI for social science research and teaching.
+I am a sociologist studying how AI reshapes markets, institutions, and **collective intelligence**. I completed my doctoral training at Princeton University's Department of Sociology and Center for Statistics and Machine Learning. I am now a Postgraduate Research Associate in Princeton's Department of Sociology.
 
-In the private sector, I practiced as a commercial trial lawyer in downtown Montreal (Canada) for five years. I handled high-stakes litigation involving shareholder rights, complex tax planning, and trademark infringement, and I participated in a variety of corporate transactions. My [LL.M. thesis](https://dx.doi.org/10.2139/ssrn.3812636) received the 2022 annual thesis prize of the [Quebec Association of Law Professors](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires/). Part of the thesis became an [article](https://www.erudit.org/fr/revues/mlj/2022-v67-n3-mlj07900/1098445ar/) cited repeatedly by the Quebec Court of Appeal.
+My research combines quantitative and computational methods with economic sociology and legal analysis to study the transformation of financial markets and economic actors after the **digital turn**, and the social, technical, and regulatory implications of **multi-agent AI systems**. I also work on the **responsible use of AI** for social science research and teaching.
+
+In the private sector, I practiced as a **commercial trial lawyer** in downtown Montreal (Canada) for five years. I handled high-stakes litigation involving shareholder rights, complex tax planning, and trademark infringement, and I participated in a variety of corporate transactions. My [LL.M. thesis](https://dx.doi.org/10.2139/ssrn.3812636) received the 2022 annual thesis prize of the [Quebec Association of Law Professors](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires/). Part of the thesis became an [article](https://www.erudit.org/fr/revues/mlj/2022-v67-n3-mlj07900/1098445ar/) cited repeatedly by the Quebec Court of Appeal.
