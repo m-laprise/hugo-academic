@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2025-11-01
+date: 2026-08-09
 type: landing
 
 sections:
@@ -12,34 +12,96 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
-    id: research 
+    id: research
     content:
-      title: Research
-      text: >-
-        My work at the interface of *finance*, *law*, *sociology*, and *computer science and engineering* explores how machine learning and computation technologies transform *discretionary decision-making* under uncertainty, reshape collective intelligence, and in so doing, change the dynamics of the circulation and accumulation of wealth and information in society. I also study what this means for our laws, and what kinds of regulatory frameworks we need to efficiently regulate AI and the data industry.<p>
-        
-        My dissertation investigates recent changes in the **financial data and analytics industry** and **human-AI interaction** in financial markets, and their impact on investment decisions and asset management practices, with an eye to regulatory concerns emerging from algorithmic trading and the changing face of stock exchange groups.<p>
+      title: Research Program
+      text: |-
+        I believe one of the key questions of our time is how an information ecosystem characterized by massive amounts of linked digital data and the large-scale deployment of predictive, generative, and agentic AI systems is reshaping markets and social institutions.
 
-        In a separate line of work, I study complex reasoning in large language models, whether and how they can learn abstract rules in a way that allows them to generalize algorithmically and compositionally, and what this means for applications of AI in the legal field.<p>
-        
-        Other work in progress:
+        My postdoctoral projects tackle this question and examine **how unequal distributions of information and computational capacity change collective decision-making, market dynamics, and the rules needed to govern institutions**. I approach this problem from two complementary directions: by modeling collective computation under unequal access to information, and by examining how law should adapt to AI-driven changes in the scale of social activity.
 
-          - <span style="color: #eab676">***The Perils of Legal Scale-Invariance: Information Tipping Points and the Scope of Precedent in the Age of Artificial Intelligence***</span>. Artificial intelligence has given everyone the means to imperfect but nearly unlimited forgery, surveillance, and forecasting. As AI outputs multiply, the legal order is stumbling over these scaled-up and sped-up social facts. Outdated or dubious classifications and ineffective enforcement leave vulnerable people without protections, harms without compensation, and wrongs without reprobation. In this new project, I explore the impacts of the proliferation of AI outputs on the legal order, and I develop the theory of legal scale-invariance and legal scale-awareness to explain why the response should not be "scaled-up law," but rather, "scale-aware law." As an illustration, I apply my framework to the scope of precedent in common law adjudication, studying information tipping points in speech and surveillance to show how scale-awareness can help the legal order accurately classify and appropriately respond to AI-related social change. Here is [the abstract for the project](/uploads/Laprise_scale-invariance_abstract.pdf).
-          <p>
+        ### Learned Multi-Agent Collective Prediction
 
-          - <span style="color: #eab676">***Divestment without Decarbonization: Private Equity and the Organizational Ecology of Dirty Work***</span> (co-authored with [Adam Goldstein](https://sociology.princeton.edu/people/adam-goldstein)). We hypothesize that intensified pressures to adopt more sustainable business practices have prompted publicly-traded firms to shed environmental liabilities by divesting carbon-emitting assets. However, rather than reducing net emissions, carbon-intensive plants are relocating to more opaque privately-owned and private equity firms, which face lesser pressures to decarbonize. The result is a dynamic of divestment without decarbonization. We test this by constructing a unique linked dataset covering the period from 2010-2021 for the universe of more than 8000 facilities that reported emissions data to the EPA's Greenhouse Gas Reporting Program, with novel time-varying data on the ownership of each facility’s parent firm. We presented this project at [SASE 2023](https://sase.org/event/2023-rio-de-janeiro/) in Rio de Janeiro.
-          <p>
+        I develop a learned multi-agent paradigm for reconstructing objective structure from distributed partial observations. The project tests when communication produces **generalizable collective prediction** and how persistent **inequality in access to evidence** changes group accuracy, individual competence, and dependence on advantaged agents.
 
-          
-#   - block: markdown
-#     id: teaching    
-#     design:
-#         spacing:
-#             # Customize the section spacing. Order is top, right, bottom, left.
-#             padding: ['20px', '0', '20px', '0']
-#     content:
-#       title: Teaching materials
-#       #subtitle: A subtitle
-#       text: I have designed a {{% staticref "uploads/syllabus01.pdf" %}}syllabus and course guide{{% /staticref %}} for a 12-week seminar on **Law, Society, and Political Economy**, to introduce upper-level undergraduates or first-year J.D. or business school students students to existing scholarship and promising research methods on how legal institutions shape social and economic relations and create corporate power and social inequality, with a focus on North America in the past 200 years. It is available under Creative Commons CC-BY-SA license.
+        I run controlled experiments by pre-training groups of **small transformers** from scratch in PyTorch, tracking runs in Weights & Biases and running jobs on clusters of multiple GPUs.
+
+        I will use this framework to study how changes in the distribution of information and computational capacity across society reshape collective outcomes, inequality, and institutional dependence.
+
+        ### Scale-Aware Law for Generative and Agentic AI
+
+        I study how legal frameworks should adapt when generative and agentic AI increase the scale and speed of forecasting, surveillance, communication, and automated action. The project develops a **scale-aware framework** for updating legal classifications and enforcement, with applications to **financial regulation and antitrust**.
+
+        {{< abstract "project-scale-aware-law.md" "Read project abstract" >}}
+
+  - block: markdown
+    id: outputs
+    content:
+      title: Selected Research Outputs
+      text: |-
+        ### Dissertation Research
+
+        My dissertation examined the consequences of **outsourcing relational work after the digital turn**, looking in turn at the outsourcing of evaluation to corporate brokers, social prediction to AI systems and their developers, and contract enforcement to debt collectors.
+
+        #### Transient Brokerage: How Intermediaries Hoard Data and Capture Markets
+
+        I develop a social theory of **transient brokerage** that challenges the view of brokerage as an inherently fragile structural position. I show how corporate intermediaries use the data generated by their activities, the predictions derived from them, and the legal protection of the corporate form to progress from matchmaking to market capture.
+
+        I translate this theory into a reproducible **[agent-based model](https://github.com/m-laprise/transientbrokerage)** with neural-network learning, in which a broker acquires knowledge from repeated matching work, to simulate how intermediaries can convert structural capital into durable information advantage.
+
+        {{< abstract "work-transient-brokerage.md" >}}
+
+        **Available:** Manuscript available on request.
+
+        #### Complexity, Indeterminacy, and the Limits of Machine Learning
+
+        I developed a framework drawing on social science and information theory to diagnose **limits of behavioral prediction** before modeling and guide the use of machine learning across areas of social decision-making.
+
+        {{< abstract "work-ml-limits.md" >}}
+
+        **Available:** Manuscript available on request.
+
+        #### Financial Estrangement
+
+        With Frederick F. Wherry and Edward P. Freeland, I examined how debt collection and economic precarity shape institutional trust. The project drew on an **original probability survey of 2,115 U.S. adults** and **[custom R code](https://github.com/m-laprise/debtchapter)** for weighted nonlinear models, multiple imputation, predictive margins, and simulation-based uncertainty.
+
+        {{< abstract "work-financial-estrangement.md" >}}
+
+        **Status:** Under review at *American Sociological Review*.
+
+        ### Other Research
+
+        #### How Private Equity Owns America
+
+        With Charlie Eaton, Albina Gibadullina, and Adam Goldstein (equal co-authors), I examine how private equity operates as a **corporate raider, Main Street invader, monopoly builder, and shadow owner** across the U.S. economy.
+
+        {{< abstract "publication-private-equity-owns-america.md" >}}
+
+        **Status:** Forthcoming as a Roosevelt Institute white paper; under review at *Socio-Economic Review*.
+
+        #### Economic Policies During Times of Crisis
+
+        With Andreas Wiedemann (equal co-author), I examined how **welfare and credit regimes** shaped economic policy responses to the COVID-19 crisis.
+
+        {{< abstract "publication-welfare-credit-regimes.md" >}}
+
+        **Published:** [*Socio-Economic Review* (2025)](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwae075/7941929); reprinted in *Viral Debt* (Routledge, 2026).
+
+        #### Discretionary Bars to Action in Quebec Law
+
+        I used a systematic review of recent cases to develop a theory of the *fin de non-recevoir* in Quebec private law, distinguishing absolute from discretionary bars and clarifying how discretionary bars safeguard legal coherence.
+
+        {{< abstract "publication-pleas-in-bar.md" >}}
+
+        **Published:** [*McGill Law Journal* (2022)](https://www.erudit.org/fr/revues/mlj/2022-v67-n3-mlj07900/1098445ar/); cited repeatedly by the Quebec Court of Appeal.
+
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: |-
+        For Princeton Sociology's September 2026 Graduate Methods Camp, I will teach quantitative and computational research methods. I am redesigning the coding portion to incorporate the **rigorous and ethical use of agentic AI** for research and learning.
+
+        As a preceptor for the graduate course **Advanced Social Statistics**, I led separate tutorial sessions for students, held office hours, and supported them with a replication project and with problem sets. I also served as a guest lecturer in Law, Institutions, and Public Policy.
 
 ---

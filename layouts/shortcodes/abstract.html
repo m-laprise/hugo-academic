@@ -1,0 +1,8 @@
+{{- $filename := .Get 0 -}}
+{{- $summary := .Get 1 | default "Read abstract" -}}
+{{- $path := printf "assets/abstracts/%s" $filename -}}
+{{- $options := dict "display" "block" -}}
+<details>
+  <summary>{{ $summary }}</summary>
+  {{ os.ReadFile $path | .Page.RenderString $options }}
+</details>

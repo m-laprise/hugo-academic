@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: 'Researcher'
     org_name: ''
-    description: ''
+    description: 'Sociologist studying how AI reshapes markets, institutions, and collective intelligence.'
     twitter: ''
   analytics:
     google_analytics: 'G-5C72ETDGGD'
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2025 Marie-Lou Laprise. Last updated 2025-11-01. M icon created by <a href="https://www.flaticon.com/free-icons/m" title="m icons">Freepik - Flaticon</a>'
+    notice: '© 2026 Marie-Lou Laprise. Last updated 2026-08-09. M icon created by <a href="https://www.flaticon.com/free-icons/m" title="m icons">Freepik - Flaticon</a>'
     license:
       enable: false
       allow_derivatives: false

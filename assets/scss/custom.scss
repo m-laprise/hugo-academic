@@ -1,0 +1,112 @@
+/* Selected research: make subsection and item boundaries easy to scan. */
+#outputs .col-12 > h3 {
+  margin: 3.25rem 0 1.25rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 2px solid rgba(181, 105, 78, 0.55);
+  color: #2f5668;
+  font-size: 1.45rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+#outputs .col-12 > h3:first-child {
+  margin-top: 0.75rem;
+}
+
+#outputs .col-12 > h4 {
+  position: relative;
+  margin: 1.8rem 0 0.65rem;
+  padding: 1.35rem 0 0 1rem;
+  border-top: 1px solid rgba(47, 86, 104, 0.16);
+  color: #263f4a;
+  font-size: 1.2rem;
+  line-height: 1.35;
+}
+
+#outputs .col-12 > h4::before {
+  position: absolute;
+  top: 1.35rem;
+  left: 0;
+  width: 4px;
+  height: 1.35em;
+  border-radius: 2px;
+  background: #b5694e;
+  content: "";
+}
+
+#outputs .col-12 > h3 + h4 {
+  margin-top: 0.25rem;
+  padding-top: 0.35rem;
+  border-top: 0;
+}
+
+#outputs .col-12 > h3 + h4::before {
+  top: 0.35rem;
+}
+
+#outputs .col-12 > h4 + p {
+  max-width: 74ch;
+  margin: 0 0 0.75rem 1rem;
+}
+
+#outputs .col-12 > h4 + p + p {
+  display: inline-block;
+  max-width: calc(100% - 1rem);
+  margin: 0 0 0 1rem;
+  padding: 0.42rem 0.7rem;
+  border-left: 3px solid #b5694e;
+  border-radius: 0 0.25rem 0.25rem 0;
+  background: rgba(181, 105, 78, 0.08);
+  color: #46545b;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+#outputs .col-12 > h4 + p + p strong {
+  color: #8a4b37;
+}
+
+#outputs .col-12 > h4 + p + p a {
+  font-weight: 600;
+}
+
+.dark #outputs .col-12 > h3 {
+  border-bottom-color: rgba(210, 138, 107, 0.7);
+  color: #d8e7ed;
+}
+
+.dark #outputs .col-12 > h4 {
+  border-top-color: rgba(216, 231, 237, 0.16);
+  color: #f1f3f4;
+}
+
+.dark #outputs .col-12 > h4::before {
+  background: #d28a6b;
+}
+
+.dark #outputs .col-12 > h4 + p + p {
+  border-left-color: #d28a6b;
+  background: rgba(210, 138, 107, 0.12);
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.dark #outputs .col-12 > h4 + p + p strong {
+  color: #e4a486;
+}
+
+@media (max-width: 767.98px) {
+  #outputs .col-12 > h3 {
+    margin-top: 2.5rem;
+    font-size: 1.3rem;
+  }
+
+  #outputs .col-12 > h4 {
+    padding-left: 0.8rem;
+    font-size: 1.08rem;
+  }
+
+  #outputs .col-12 > h4 + p,
+  #outputs .col-12 > h4 + p + p {
+    margin-left: 0.8rem;
+  }
+}

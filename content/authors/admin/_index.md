@@ -6,33 +6,34 @@ title: Marie-Lou Laprise
 superuser: true
 
 # Role/position/tagline
-role: Lawyer and computational social scientist 
+role: Sociologist studying AI, markets, and institutions
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: PhD candidate, Princeton University
+- name: Postgraduate Research Associate, Princeton University
   url: https://sociology.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ...
+bio: Sociologist studying how AI reshapes markets, institutions, and collective intelligence.
 
 # Interests to show in About widget
 interests:
-- Decision-making, collective intelligence, social prediction
-- Neural networks, large language models, complex systems
-- Law & AI, torts, financial regulation
+- Information asymmetries in markets and institutions
+- Multi-agent learning and collective intelligence
+- AI and big data in financial markets
+- Law and policy for generative and agentic AI
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in progress
-    institution: Princeton University, Department of Sociology and Center for Statistics and Machine Learning
-    year: 2020-...
-  - course: LL.M. (comparative law, with thesis)
-    institution: University of Montreal
+  - course: Ph.D. in Sociology; Graduate Certificate in Statistics and Machine Learning
+    institution: Princeton University, NJ
+    year: 2026
+  - course: LL.M.; Quebec-wide Annual Thesis Prize
+    institution: Université de Montréal, QC
     year: 2021
-  - course: LL.B. (civil law)
-    institution: University of Sherbrooke
+  - course: LL.B.; Governor General’s Academic Medal
+    institution: Université de Sherbrooke, QC
     year: 2013
 
 # Social/Academic Networking
@@ -52,17 +53,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/m-laprise
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/marie-lou-laprise-92693826/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -70,10 +60,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate at Princeton University, where I am also completing a graduate certificate at the Center for Statistics and Machine Learning. I study the impact of **machine learning** on **social decision-making**, with a focus on markets and regulation. My work at the interface of *AI*, *finance*, *law*, and *sociology* asks how data-driven technologies are reconfiguring flows and distributions of information and wealth, in **financial markets** and beyond. I also investigate complex reasoning in **large language models** and evaluate whether and how they can be successful at legal reasoning.
+I am a sociologist studying how AI reshapes markets, institutions, and collective intelligence. I completed my doctoral research in Princeton University's Department of Sociology and am now a Postgraduate Research Associate in the department. My research combines economic sociology, legal analysis, and quantitative and computational methods to study the transformation of financial markets and economic actors after the digital turn, and the social, technical, and regulatory implications of multi-agent AI systems. I also work on the responsible use of AI for social science research and teaching.
 
-I am a co-PI at Princeton's [Debt Collection Lab](https://debtcollectionlab.org/), where our team studies debt collection lawsuits and inequality in the United States and help make data about private debt collectors accessible to the greater public.
-
-In the private sector, I practiced as a **commercial trial lawyer** in downtown Montreal (Canada) for five years. I handled high-stakes litigation involving shareholder rights, complex tax planning, and trademark infringement, I advised business owners on their litigation risks, and I participated in a variety of corporate transactions.
-
-Before coming to Princeton, I was at the Faculty of Law of the University of Montreal, where I studied judicial discretion and decision-making by judges and courts, and its relation to socioeconomic history. My [thesis](https://dx.doi.org/10.2139/ssrn.3812636) has won the 2022 [excellence prize](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires/) of the Quebec Association of Law Professors.
+In the private sector, I practiced as a commercial trial lawyer in downtown Montreal (Canada) for five years. I handled high-stakes litigation involving shareholder rights, complex tax planning, and trademark infringement, and I participated in a variety of corporate transactions. My [LL.M. thesis](https://dx.doi.org/10.2139/ssrn.3812636) received the 2022 annual thesis prize of the [Quebec Association of Law Professors](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires/). Part of the thesis became an [article](https://www.erudit.org/fr/revues/mlj/2022-v67-n3-mlj07900/1098445ar/) cited repeatedly by the Quebec Court of Appeal.
