@@ -12,14 +12,24 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
+    id: background
+    content:
+      title: Background
+      text: |-
+        ### Education
+
+        - **Princeton University, NJ.** Ph.D. in Sociology; Graduate Certificate in Statistics and Machine Learning (2026)
+        - **Université de Montréal, QC.** LL.M.; Quebec-wide Annual Thesis Prize (2021)
+        - **Université de Sherbrooke, QC.** LL.B.; Governor General’s Academic Medal (2013)
+
+        ### Legal Practice
+
+        In the private sector, I practiced as a **commercial trial lawyer** in downtown Montreal (Canada) for five years. I handled high-stakes litigation involving shareholder rights, complex tax planning, and trademark infringement, and I participated in a variety of corporate transactions. My [LL.M. thesis](https://dx.doi.org/10.2139/ssrn.3812636) received the 2022 annual thesis prize of the [Quebec Association of Law Professors](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires/). Part of the thesis became an [article](https://www.erudit.org/fr/revues/mlj/2022-v67-n3-mlj07900/1098445ar/) cited repeatedly by the Quebec Court of Appeal.
+  - block: markdown
     id: research
     content:
-      title: Research Program
+      title: Current Research Projects
       text: |-
-        One of the key questions of our time is how an information ecosystem characterized by massive amounts of linked digital data and the large-scale deployment of predictive, generative, and agentic AI systems will reshape markets and social institutions.
-
-        My postdoctoral projects tackle this question and examine **how unequal distributions of information and computational capacity change collective decision-making, market dynamics, and the rules needed to govern institutions**. I approach this problem from two complementary directions: by modeling collective computation under unequal access to information, and by examining how law should adapt to AI-driven changes in the scale of social activity.
-
         ### Learned Multi-Agent Collective Computation
 
         I develop a new modeling paradigm for studying **collective computation** in networks of complex learning agents. Small transformers, each observing only part of an objective structure, learn both a structured prediction task and how to communicate contextually with their neighbors. The project examines when communication improves collective learning, whether agents specialize, and how **unequal access to evidence** shapes individual and group performance.
@@ -51,7 +61,7 @@ sections:
 
         **Available:** Manuscript available on request.
 
-        #### Complexity, Indeterminacy, and the Limits of Machine Learning
+        #### Complex Patterns, Indeterminate Futures, and the Limits of AI for Social Prediction
 
         I developed a framework drawing on social science and information theory to diagnose **limits of behavioral prediction** before modeling and guide the use of machine learning across areas of social decision-making.
 
@@ -100,6 +110,6 @@ sections:
       text: |-
         For Princeton Sociology's September 2026 Graduate Methods Camp, I will teach quantitative and computational research methods. I am redesigning the coding portion to incorporate the **rigorous and ethical use of agentic AI** for research and learning.
 
-        As a preceptor for the graduate course **Advanced Social Statistics**, I led separate tutorial sessions for students, held office hours, and supported them with a replication project and with problem sets. I also served as a guest lecturer in Law, Institutions, and Public Policy.
+        As a preceptor for the graduate course **Advanced Social Statistics**, I led separate tutorial sessions for students, held office hours, and supported them with a replication project and with problem sets. I served as a guest lecturer in Law, Institutions, and Public Policy and also precepted for several other courses.
 
 ---
