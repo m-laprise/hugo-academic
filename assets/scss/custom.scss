@@ -94,6 +94,21 @@
   color: #e4a486;
 }
 
+/* About: use the full row when Interests is displayed without Education. */
+@media (min-width: 768px) {
+  #about .article-style + .row > .col-md-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  #about .ul-interests {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 2.25rem;
+    row-gap: 0.35rem;
+  }
+}
+
 @media (max-width: 767.98px) {
   #outputs .col-12 > h3 {
     margin-top: 2.5rem;
