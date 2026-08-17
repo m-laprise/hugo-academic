@@ -96,6 +96,11 @@
 
 /* About: use the full row when Interests is displayed without Education. */
 @media (min-width: 768px) {
+  .home-section {
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+
   #about .article-style + .row > .col-md-5 {
     flex: 0 0 100%;
     max-width: 100%;
