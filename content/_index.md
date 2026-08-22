@@ -35,7 +35,7 @@ sections:
       text: |-
         ### Dissertation Research
 
-        My dissertation examined the consequences of **outsourcing relational work after the digital turn**, looking in turn at the outsourcing of evaluation to corporate brokers, social prediction to AI systems and their developers, and contract enforcement to debt collectors.
+        My dissertation examined the transformation of **financial markets** and **economic actors** after the **digital turn**, with a focus on the consequences of **outsourcing relational work**: evaluation to corporate brokers, social prediction to AI systems and their developers, and contract enforcement to debt collectors.
 
         #### Transient Brokerage: How Intermediaries Hoard Data and Capture Markets
 
