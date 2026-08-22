@@ -12,27 +12,13 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
-    id: background
-    content:
-      title: Background
-      text: |-
-        ### Education
-
-        - **Princeton University, NJ.** Ph.D. in Sociology; Graduate Certificate in Statistics and Machine Learning (2026)
-        - **Université de Montréal, QC.** LL.M.; Quebec-wide Annual Thesis Prize (2021)
-        - **Université de Sherbrooke, QC.** LL.B.; Governor General’s Academic Medal (2013)
-
-        ### Legal Practice
-
-        In the private sector, I practiced as a **commercial trial lawyer** in downtown Montreal (Canada) for five years. I handled high-stakes litigation involving shareholder rights, complex tax planning, and trademark infringement, and I participated in a variety of corporate transactions. My [LL.M. thesis](https://dx.doi.org/10.2139/ssrn.3812636) received the 2022 annual thesis prize of the [Quebec Association of Law Professors](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires/). Part of the thesis became an [article](https://www.erudit.org/fr/revues/mlj/2022-v67-n3-mlj07900/1098445ar/) cited repeatedly by the Quebec Court of Appeal.
-  - block: markdown
     id: research
     content:
       title: Current Research Projects
       text: |-
-        ### Learned Multi-Agent Collective Computation
+        ### Collective Computation in Multi-Agent Networks
 
-        I develop a new modeling paradigm for studying **collective computation** in networks of complex learning agents. Small transformers, each observing only part of an objective structure, learn both a structured prediction task and how to communicate contextually with their neighbors. The project examines when communication improves collective learning, whether agents specialize, and how **unequal access to evidence** shapes individual and group performance.
+        I am developing a new modeling paradigm for studying **collective computation** in **networks of complex learning agents**. The modeling framework consists of a network of LLM-style agents, each observing an incomplete part of a structured ground truth. Their task is to reconstruct this ground truth by learning (i) how to communicate valuable information effectively between neighbors and (ii) how to make accurate predictions given incomplete information. The project examines when communication improves **collective learning**, whether agents **specialize**, and how **unequal access to evidence** shapes individual and group performance.
 
         {{< abstract "project-multi-agent-details.md" "Learn more" >}}
 
@@ -59,15 +45,15 @@ sections:
 
         {{< abstract "work-transient-brokerage.md" >}}
 
-        **Available:** Manuscript available on request.
+        **Available:** Manuscript available on demand.
 
         #### Complex Patterns, Indeterminate Futures, and the Limits of AI for Social Prediction
 
-        I developed a framework drawing on social science and information theory to diagnose **limits of behavioral prediction** before modeling and guide the use of machine learning across areas of social decision-making.
+        Drawing on complexity science and information theory, I develop a **pre-modeling framework** for defining **prediction problems** that distinguishes two sources of difficulty, **complexity** and **indeterminacy**, and clarifies the uses and limits of machine learning in social decision-making.
 
         {{< abstract "work-ml-limits.md" >}}
 
-        **Available:** Manuscript available on request.
+        **Status:** Under consideration at *Sociological Science*; manuscript available on demand.
 
         #### Financial Estrangement
 
@@ -75,7 +61,7 @@ sections:
 
         {{< abstract "work-financial-estrangement.md" >}}
 
-        **Status:** Under review at *American Sociological Review*.
+        **Status:** Under review at *American Sociological Review*; manuscript available on demand.
 
         ### Other Research
 
@@ -108,8 +94,10 @@ sections:
     content:
       title: Teaching
       text: |-
-        For Princeton Sociology's September 2026 Graduate Methods Camp, I will teach quantitative and computational research methods. I am redesigning the coding portion to incorporate the **rigorous and ethical use of agentic AI** for research and learning.
+        In the fall 2026, I will teach **quantitative and computational research methods** workshops to incoming graduate students, including mathematical foundations for social science research and the rigorous and ethical use of agentic AI for research and learning.
 
-        As a preceptor for the graduate course **Advanced Social Statistics**, I led separate tutorial sessions for students, held office hours, and supported them with a replication project and with problem sets. I served as a guest lecturer in Law, Institutions, and Public Policy and also precepted for several other courses.
+        As a preceptor for the graduate course **Advanced Social Statistics** at Princeton University, I led tutorial sessions for students, held office hours, and supported them with a semester-long replication project and weekly problem sets. I also served as a **guest lecturer** in *Law, Institutions, and Public Policy* and in *Comparative Constitutional Law*, and I acted as preceptor for a variety of undergraduate courses.
+
+        I am prepared to teach classes about *quantitative and computational methods* at the graduate and undergraduate levels, *organizational behavior*, *economic sociology*, *law and technology*, *law and society*, and *AI and society*.
 
 ---
