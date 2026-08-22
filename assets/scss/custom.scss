@@ -45,7 +45,6 @@
 }
 
 #outputs .col-12 > h4 + p {
-  max-width: 74ch;
   margin: 0 0 0.75rem 1rem;
 }
 
@@ -98,6 +97,15 @@
   .home-section {
     padding-top: 72px;
     padding-bottom: 72px;
+  }
+}
+
+@media (min-width: 992px) {
+  #research .section-heading + .col-12,
+  #outputs .section-heading + .col-12,
+  #teaching .section-heading + .col-12 {
+    flex: 0 0 90ch;
+    max-width: 90ch;
   }
 }
 
