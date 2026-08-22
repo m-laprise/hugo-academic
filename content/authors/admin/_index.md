@@ -60,7 +60,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a social scientist studying **collective intelligence** and the **social impact of AI** through the lens of *quantitative modeling* and *legal analysis*. As of the fall 2026, I will be pursuing a postdoctoral appointment at **Princeton University**, where I completed doctoral studies in Sociology and a graduate certificate in Statistics and Machine Learning.
+I am a social scientist studying **collective intelligence** and the **social impact of AI** through the lens of *quantitative modeling* and *legal analysis*. Beginning in fall 2026, I will be pursuing a postdoctoral appointment at **Princeton University**, where I completed doctoral studies in Sociology and a graduate certificate in Statistics and Machine Learning.
 
 My research at the intersection of *AI*, *law*, and *social science* explores what I believe to be one of the key questions of our time, with profound implications for how we live:
 
