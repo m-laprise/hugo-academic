@@ -60,21 +60,16 @@ email: ""
 highlight_name: true
 ---
 
-I am a social scientist studying **collective intelligence** and the **social impact of AI** through the lens of *quantitative modeling* and *legal analysis*.
-
-As of the fall 2026, I will be pursuing a postdoctoral appointment at **Princeton University**, where I completed doctoral studies in Sociology and a graduate certificate in Statistics and Machine Learning.
+I am a social scientist studying **collective intelligence** and the **social impact of AI** through the lens of *quantitative modeling* and *legal analysis*. As of the fall 2026, I will be pursuing a postdoctoral appointment at **Princeton University**, where I completed doctoral studies in Sociology and a graduate certificate in Statistics and Machine Learning.
 
 My research at the intersection of *AI*, *law*, and *social science* explores what I believe to be one of the key questions of our time, with profound implications for how we live:
 
 - What **social dynamics** will emerge from the private use of massive amounts of linked **digital data** and the large-scale deployment of **predictive, generative, and agentic AI systems**, in a world where **access** to data and computational capacity is increasingly **unequal**?
+    - How will this new information regime reshape *social inequality*, *decision-making processes*, and the *structure of markets*?
+    - How should *legal institutions* adapt to these *emergent dynamics*?
 
-And consequently:
+My postdoctoral projects approach this problem from two complementary directions: by *modeling collective computation* under unequal access to information, and by developing a framework for *legal adaptation* to AI-driven changes in the *scale* of social activity. [Explore the current research projects](#research).
 
-- How will this new information regime reshape *social inequality*, *decision-making processes*, and the *structure of markets*?
-- How should *legal institutions* adapt to these *emergent dynamics*?
-
-My postdoctoral projects approach this problem from two complementary directions: (i) by *modeling collective computation* under unequal access to information, and (ii) by developing a framework for *legal adaptation* to AI-driven changes in the *scale* of social activity. [Explore the current research projects](#research). In my work, I combine the study of **emergent behaviors** arising in networks of **LLM agents** and in more traditional **agent-based models** with the analysis of **legal material** and **empirical data** from real markets.
-
-I also work on the **responsible use of AI** for decision-making, social science research, and teaching.
+In my work, I combine the study of **emergent behaviors** arising in networks of **LLM agents** and in more traditional **agent-based models** with the analysis of **legal material** and **empirical data** from real markets. I also work on the **responsible use of AI** for decision-making, social science research, and teaching.
 
 Prior to my doctoral training, I practiced as a **commercial trial lawyer** in Montreal (Canada), where I handled high-stakes litigation involving shareholder rights, complex tax planning, and trademark infringement. My [**LL.M. thesis**](https://dx.doi.org/10.2139/ssrn.3812636) received the 2022 annual thesis prize of the [Quebec Association of Law Professors](https://apdq.openum.ca/prix/recipiendaires-des-prix-de-theses-et-de-memoires/). Part of the thesis became an [article](https://www.erudit.org/fr/revues/mlj/2022-v67-n3-mlj07900/1098445ar/) cited repeatedly by the Quebec Court of Appeal.
