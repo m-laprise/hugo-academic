@@ -60,12 +60,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a social scientist studying **collective intelligence** and the **social impact of AI** through the lens of *quantitative modeling* and *legal analysis*. Beginning in fall 2026, I will be pursuing a postdoctoral appointment at **Princeton University**, where I completed doctoral studies in Sociology and a graduate certificate in Statistics and Machine Learning.
+I am a social scientist and lawyer studying **collective intelligence** and the **social impact of AI** through the lens of *quantitative modeling* and *legal analysis*. Beginning in fall 2026, I will be pursuing a postdoctoral appointment at **Princeton University**, where I completed doctoral studies in Sociology and a graduate certificate in Statistics and Machine Learning.
 
 My research at the intersection of *AI*, *law*, and *social science* explores what I believe to be one of the key questions of our time, with profound implications for how we live:
 
 - What **social dynamics** will emerge from the private use of massive amounts of linked **digital data** and the large-scale deployment of **predictive, generative, and agentic AI systems**, in a world where **access** to data and computational capacity is increasingly **unequal**?
-    - How will this new information regime reshape *social inequality*, *decision-making processes*, and the *structure of markets*?
+    - How will this new information and communication regime reshape *social inequality*, *decision-making processes*, and the *structure of markets*?
     - How should *legal institutions* adapt to these *emergent dynamics*?
 
 My postdoctoral projects approach this problem from two complementary directions: by *modeling collective computation* under unequal access to information, and by developing a framework for *legal adaptation* to AI-driven changes in the *scale* of social activity. [Explore the current research projects](#research).

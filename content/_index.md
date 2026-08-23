@@ -28,6 +28,12 @@ sections:
 
         {{< abstract "project-scale-aware-law.md" "Read project abstract" >}}
 
+        ### LEGALMIX: Leveraging Legal Logic for Enhanced Reasoning Abilities in Language Models
+
+        Joint work with [Brandon M. Stewart](https://brandonstewart.org/). I presented this work at the joint [graduate certificate colloquium](https://researchcomputing.princeton.edu/news/2024/picscie-and-csml-hold-first-joint-graduate-certificate-colloquium-computational-science) of the Princeton Institute for Computational Science and Engineering and the Center for Statistics and Machine Learning.
+
+        {{< abstract "project-legalmix.md" "Read project abstract" >}}
+
   - block: markdown
     id: outputs
     content:
