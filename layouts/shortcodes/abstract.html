@@ -2,7 +2,9 @@
 {{- $summary := .Get 1 | default "Read abstract" -}}
 {{- $path := printf "assets/abstracts/%s" $filename -}}
 {{- $options := dict "display" "block" -}}
-<details>
+<details class="abstract-details">
   <summary>{{ $summary }}</summary>
-  {{ os.ReadFile $path | .Page.RenderString $options }}
+  <div class="abstract-content">
+    {{ os.ReadFile $path | .Page.RenderString $options }}
+  </div>
 </details>

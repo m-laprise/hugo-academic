@@ -53,8 +53,7 @@
   max-width: calc(100% - 1rem);
   margin: 0 0 0 1rem;
   padding: 0.42rem 0.7rem;
-  border-left: 3px solid #b5694e;
-  border-radius: 0 0.25rem 0.25rem 0;
+  border-radius: 0.25rem;
   background: rgba(181, 105, 78, 0.08);
   color: #46545b;
   font-size: 0.9rem;
@@ -84,13 +83,72 @@
 }
 
 .dark #outputs .col-12 > h4 + p + p {
-  border-left-color: #d28a6b;
   background: rgba(210, 138, 107, 0.12);
   color: rgba(255, 255, 255, 0.78);
 }
 
 .dark #outputs .col-12 > h4 + p + p strong {
   color: #e4a486;
+}
+
+/* Collapsible abstracts: distinguish supporting detail from project summaries. */
+.abstract-details {
+  margin: 0.75rem 0 1.1rem;
+}
+
+#outputs .abstract-details {
+  margin-left: 1rem;
+}
+
+.abstract-details > summary {
+  width: fit-content;
+  margin: 0;
+  padding: 0.1rem 0;
+  color: #2f5668;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.abstract-details > summary:hover {
+  color: #b5694e;
+}
+
+.abstract-details[open] > summary {
+  margin-bottom: 0.65rem;
+}
+
+.abstract-content {
+  padding: 0.8rem 1rem;
+  border-left: 3px solid rgba(47, 86, 104, 0.72);
+  border-radius: 0 0.3rem 0.3rem 0;
+  background: rgba(47, 86, 104, 0.06);
+  color: #3f4d55;
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+
+.abstract-content > :last-child {
+  margin-bottom: 0;
+}
+
+.abstract-details .abstract-content p {
+  margin-left: 0;
+  padding-left: 0;
+  border-left: 0;
+}
+
+.dark .abstract-details > summary {
+  color: #d8e7ed;
+}
+
+.dark .abstract-details > summary:hover {
+  color: #e4a486;
+}
+
+.dark .abstract-content {
+  border-left-color: rgba(124, 160, 177, 0.9);
+  background: rgba(216, 231, 237, 0.08);
+  color: rgba(255, 255, 255, 0.84);
 }
 
 @media (min-width: 768px) {
@@ -122,6 +180,10 @@
 
   #outputs .col-12 > h4 + p,
   #outputs .col-12 > h4 + p + p {
+    margin-left: 0.8rem;
+  }
+
+  #outputs .abstract-details {
     margin-left: 0.8rem;
   }
 }
