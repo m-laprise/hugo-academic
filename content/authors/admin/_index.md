@@ -53,6 +53,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/m-laprise
+
+cv:
+  label: Curriculum Vitae (PDF)
+  url: uploads/Marie-Lou-Laprise-CV.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 

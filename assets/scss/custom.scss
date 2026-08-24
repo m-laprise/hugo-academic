@@ -151,6 +151,38 @@
   color: rgba(255, 255, 255, 0.84);
 }
 
+/* Keep the CV visible as a text action beneath the profile icons. */
+.profile-cv-link {
+  margin-top: 0.7rem;
+}
+
+.profile-cv-link a {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid rgba(47, 86, 104, 0.55);
+  border-radius: 0.25rem;
+  color: #2f5668;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.profile-cv-link a:hover {
+  border-color: #b5694e;
+  color: #b5694e;
+  text-decoration: none;
+}
+
+.dark .profile-cv-link a {
+  border-color: rgba(216, 231, 237, 0.55);
+  color: #d8e7ed;
+}
+
+.dark .profile-cv-link a:hover {
+  border-color: #e4a486;
+  color: #e4a486;
+}
+
 @media (min-width: 768px) {
   .home-section {
     padding-top: 72px;
