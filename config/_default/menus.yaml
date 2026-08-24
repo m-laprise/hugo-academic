@@ -8,8 +8,16 @@ main:
     url: "/#research"
     weight: 20
   - name: Selected Work
-    url: "/#outputs"
+    identifier: selected-work
     weight: 30
+  - name: Overview
+    parent: selected-work
+    url: "#outputs"
+    weight: 30
+  - name: Transient Brokerage
+    parent: selected-work
+    url: "/transient-brokerage/"
+    weight: 31
   - name: Teaching
     url: "/#teaching"
     weight: 40

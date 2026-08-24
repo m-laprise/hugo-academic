@@ -1,0 +1,14 @@
+{{- define "main" -}}
+<main class="tb-page">
+  <header class="tb-page-header">
+    <div class="tb-shell">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}<p>{{ . }}</p>{{ end }}
+    </div>
+  </header>
+  <article class="tb-shell tb-content">
+    {{ .Content }}
+  </article>
+</main>
+<script defer src="{{ "js/transient-brokerage.js" | relURL }}"></script>
+{{- end -}}

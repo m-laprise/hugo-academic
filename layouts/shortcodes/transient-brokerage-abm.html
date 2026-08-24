@@ -1,0 +1,36 @@
+<figure class="tb-abm" data-tb-abm>
+  <svg viewBox="0 0 520 596" role="img" aria-labelledby="tb-abm-title tb-abm-desc">
+    <title id="tb-abm-title">How observations accumulate in a matching market</title>
+    <desc id="tb-abm-desc">Clients form direct and broker-mediated matches. The broker observes only mediated matches, while a highlighted agent observes only the matches in which it participates.</desc>
+    <g data-abm-edges class="tb-abm-edges">
+      <line x1="281" y1="124" x2="89" y2="154"/><line x1="409" y1="107" x2="360" y2="154"/>
+      <line x1="224" y1="310" x2="267" y2="245"/><line x1="87" y1="300" x2="169" y2="221"/>
+    </g>
+    <g data-abm-nodes class="tb-abm-nodes">
+      <circle cx="281" cy="124" r="8"/><circle cx="409" cy="107" r="8"/><circle cx="224" cy="310" r="8"/>
+      <circle cx="89" cy="154" r="8"/><circle cx="476" cy="120" r="8"/><circle cx="360" cy="154" r="8"/>
+      <circle cx="267" cy="245" r="8"/><circle cx="87" cy="300" r="8"/><circle cx="203" cy="63" r="8"/>
+      <circle cx="422" cy="229" r="8"/><circle cx="459" cy="279" r="8"/><circle cx="357" cy="247" r="8"/>
+      <circle cx="48" cy="74" r="8"/><circle cx="149" cy="121" r="8"/><circle cx="169" cy="221" r="8"/>
+      <circle cx="326" cy="72" r="8"/>
+      <circle class="tb-abm-highlight-ring" cx="87" cy="300" r="14"/>
+      <text x="87" y="330" text-anchor="middle">one agent</text>
+      <circle class="tb-abm-broker" cx="266" cy="168" r="18"/>
+    </g>
+    <line class="tb-abm-base" x1="98" y1="502" x2="202" y2="502"/>
+    <line class="tb-abm-base" x1="320" y1="502" x2="424" y2="502"/>
+    <g data-abm-broker-bar></g>
+    <g data-abm-client-bar></g>
+    <text class="tb-abm-label" x="150" y="524" text-anchor="middle">Broker · mediated matches</text>
+    <text class="tb-abm-label" x="372" y="524" text-anchor="middle">One agent · only its own</text>
+    <text data-abm-broker-count class="tb-abm-count tb-abm-count--broker" x="150" y="552" text-anchor="middle">0</text>
+    <text data-abm-client-count class="tb-abm-count" x="372" y="552" text-anchor="middle">0</text>
+    <text class="tb-abm-axis-title" x="260" y="586" text-anchor="middle">Observations recorded</text>
+  </svg>
+  <figcaption><span class="tb-abm-legend tb-abm-legend--broker">Broker-mediated</span><span class="tb-abm-legend tb-abm-legend--direct">Direct</span> The broker records only the matches it mediates.</figcaption>
+  <div class="tb-abm-controls" aria-label="Animation controls">
+    <button type="button" data-abm-toggle>Pause</button>
+    <button type="button" data-abm-replay>Replay</button>
+  </div>
+  <noscript><p>The diagram is shown in its initial state. Animation controls require JavaScript.</p></noscript>
+</figure>

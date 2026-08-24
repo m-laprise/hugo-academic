@@ -1,0 +1,12 @@
+{{- $kind := .Get 0 -}}
+{{- $path := printf "media/research-%s.svg" $kind -}}
+{{- $image := resources.Get $path -}}
+{{- $alt := "" -}}
+{{- if eq $kind "collective" -}}
+  {{- $alt = "A distributed network of one agent type, with node sizes varying modestly to represent unequal agents." -}}
+{{- else if eq $kind "scale-aware" -}}
+  {{- $alt = "Enforcement effort grows steeply when law acts on every instance but stays bounded when law targets the structure behind the conduct." -}}
+{{- end -}}
+<figure class="current-project-illustration current-project-illustration--{{ $kind }}">
+  <img src="{{ $image.RelPermalink }}" alt="{{ $alt }}">
+</figure>
