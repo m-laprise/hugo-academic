@@ -1,0 +1,28 @@
+{{- if .IsHome -}}
+<script>
+  (() => {
+    const researchSection = document.getElementById('research');
+    if (!researchSection) return;
+
+    const openLinkedProject = () => {
+      const targetId = decodeURIComponent(window.location.hash.slice(1));
+      if (!targetId || targetId === 'research') return;
+
+      const heading = document.getElementById(targetId);
+      if (!heading || heading.tagName !== 'H3' || !researchSection.contains(heading)) return;
+
+      let element = heading.nextElementSibling;
+      while (element && element.tagName !== 'H3') {
+        if (element.matches('details.abstract-details')) {
+          element.open = true;
+          return;
+        }
+        element = element.nextElementSibling;
+      }
+    };
+
+    openLinkedProject();
+    window.addEventListener('hashchange', openLinkedProject);
+  })();
+</script>
+{{- end -}}
