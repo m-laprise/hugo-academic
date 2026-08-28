@@ -447,7 +447,7 @@
 
 .tb-flow {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 0;
   margin: 0;
   padding: 0;
@@ -465,7 +465,7 @@
   background: transparent;
   color: var(--tb-ink);
   font-family: var(--bs-font-sans-serif);
-  font-size: 1.02rem;
+  font-size: 0.96rem;
   line-height: 1.55;
 }
 
