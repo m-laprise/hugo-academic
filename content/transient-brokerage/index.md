@@ -1,12 +1,12 @@
 ---
-title: Transient Brokerage
-subtitle: How Intermediaries Hoard Data and Capture Markets
+title: Brokers Who Do Not Bridge
+subtitle: When Assessment, Not Access, Shapes Broker Advantage
 type: page
 layout: transient-brokerage
 show_date: false
 show_breadcrumb: false
-description: A social theory and computational model of how corporate intermediaries turn repeated matching work into informational advantage and durable market power.
-summary: A social theory and computational model of how corporate intermediaries turn repeated matching work into informational advantage and durable market power.
+description: A social theory and computational model of how corporate intermediaries turn repeated matching work into informational advantage and durable market power. When assessment, not access, underlies brokers' advantage, they can be highly central while doing little to no bridging work.
+summary: A social theory and computational model of how corporate intermediaries turn repeated matching work into informational advantage and durable market power. When assessment, not access, underlies brokers' advantage, they can be highly central while doing little to no bridging work.
 design:
   css_class: transient-brokerage-page
 ---
@@ -18,7 +18,7 @@ design:
 <section class="tb-section tb-section--turn" aria-labelledby="digital-turn">
   <p class="tb-section-label">Context</p>
   <h2 id="digital-turn">After the digital turn</h2>
-  <p class="tb-section-intro">What happens when <strong>market matchmaking</strong> is taken over by corporations using digital technologies to operate at scale?</p>
+  <p class="tb-section-intro">What happens when <strong>market matchmaking</strong> is outsourced to corporations using digital technologies to operate at scale?</p>
 
   <div class="tb-compare">
     <article class="tb-card">
@@ -65,17 +65,17 @@ design:
   <div class="tb-compare tb-compare--puzzle">
     <article class="tb-card">
       <p class="tb-card-label">Theory says</p>
-      <h3>Brokerage is <a href="https://www.pnas.org/doi/10.1073/pnas.1100920108">fragile</a></h3>
-      <p>A broker who merely stands between others holds an unstable position, one it must keep working to defend, or watch collapse.</p>
+      <h3>Brokerage is fragile</h3>
+      <p>Brokering can undermine trust or eliminate the gaps that generate its value, and brokers need <a href="https://www.pnas.org/doi/10.1073/pnas.1100920108">supporting institutions</a> or <a href="https://www.journals.uchicago.edu/doi/10.1086/730630">deeper interpersonal ties</a> to stabilize their role.</p>
     </article>
     <article class="tb-card">
       <p class="tb-card-label">Yet in fact</p>
       <h3>Brokers became giants</h3>
-      <p>From Visa to Amazon, corporate actors in the broker's position rose to durable market power.</p>
+      <p>Yet many corporate actors in positions of brokerage, from Visa to Amazon, have risen in market power, profit, and prominence even as networks transformed around them.</p>
     </article>
   </div>
 
-  <p class="tb-question">If the position is so fragile, <strong>how did they grow so powerful?</strong></p>
+  <p class="tb-question">When can brokering <strong>strengthen rather than undermine</strong> a broker's advantage?</p>
 </section>
 
 <section class="tb-section tb-section--model" aria-labelledby="matching-market">
@@ -103,8 +103,9 @@ design:
   <ol class="tb-flow">
     <li><span>01</span>The broker matches parties who can't easily find or evaluate each other.</li>
     <li><span>02</span>Each match leaves an informational byproduct the broker accumulates.</li>
-    <li><span>03</span>Its informational advantage grows with every match.</li>
-    <li><span>04</span>Shielded by the corporate form, it builds information architectures and accumulates data, which it later leverages to become a principal.</li>
+    <li><span>03</span>The broker gets better at evaluating the value of potential matches.</li>
+    <li><span>04</span>Shielded by the corporate form, the broker accumulates data and builds information architectures.</li>
+    <li><span>05</span>The broker can use this informational advantage to transition from broker to principal.</li>
   </ol>
 
   <p class="tb-thesis">Brokerage can disappear because of the broker's <strong>power</strong>, not its fragility.</p>
@@ -123,8 +124,7 @@ design:
   <div class="tb-result-copy">
     <p class="tb-section-label">A central result</p>
     <h2 id="brokerage-result">The most central brokers can be the ones that <strong>bridge the least.</strong></h2>
-    <p>The broker's structural advantage is endogenous: it becomes central because clients outsource to it, and they outsource because its assessments are good, not because its bridging position provides access.</p>
-    <p>In turn, its assessments are good because of the relational data it accumulates from repeated matchmaking activity.</p>
+    <p><strong>Broker centrality is endogenous:</strong> clients outsource to the broker because its assessments are valuable, not because its bridging position provides access.</p>
   </div>
   <div class="tb-result-actions">
     <a href="https://github.com/m-laprise/transientbrokerage"><strong>View the model on GitHub</strong></a>
