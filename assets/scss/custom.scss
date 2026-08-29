@@ -883,6 +883,56 @@
   background: #1f2224;
 }
 
+@media (min-width: 992px) {
+  .tb-section {
+    padding: 3.1rem 0;
+  }
+
+  .tb-page-header h1 {
+    max-width: 26ch;
+    font-size: clamp(2.4rem, 3.4vw, 3.1rem);
+    line-height: 1.08;
+  }
+
+  .tb-page-header p {
+    font-size: 1.25rem;
+  }
+
+  .tb-opening-abstract .abstract-content,
+  .tb-card > p:last-child,
+  .tb-model-copy > p:not(.tb-section-label),
+  .tb-result-copy > p:not(.tb-section-label) {
+    font-size: 0.96rem;
+  }
+
+  .tb-section h2 {
+    font-size: 1.9rem;
+  }
+
+  .tb-section-intro,
+  .tb-thesis,
+  .tb-question {
+    font-size: 1.12rem;
+  }
+
+  .tb-card h3 {
+    font-size: 1.12rem;
+  }
+
+  .tb-flow li {
+    font-size: 0.9rem;
+  }
+
+  .tb-example,
+  .tb-result-actions {
+    font-size: 0.95rem;
+  }
+
+  .tb-model-copy .tb-model-lead {
+    font-size: 1rem;
+  }
+}
+
 @media (max-width: 991.98px) {
   .tb-section--model {
     grid-template-columns: 1fr;
