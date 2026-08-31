@@ -85,7 +85,7 @@ design:
     <p class="tb-model-lead">Each client sees only <strong>its own dealings.</strong> The broker sees <strong>across all of them</strong> and pools what it learns.</p>
     <ul class="tb-model-facts" aria-label="Model specifications">
       <li><strong>1</strong> agent-based model in Julia, with <strong>500 to 1,500</strong> agents</li>
-      <li><strong>161</strong> sweep coordinates covering <strong>98</strong> effective market conditions</li>
+      <li><strong>98</strong> effective market conditions</li>
       <li><strong>20</strong> seeds per condition, <strong>50</strong> at baseline</li>
       <li><strong>1,990</strong> simulated runs</li>
     </ul>
