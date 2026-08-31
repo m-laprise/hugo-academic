@@ -84,10 +84,10 @@ design:
     <h2 id="matching-market">Many clients, one broker</h2>
     <p class="tb-model-lead">Each client sees only <strong>its own dealings.</strong> The broker sees <strong>across all of them</strong> and pools what it learns.</p>
     <ul class="tb-model-facts" aria-label="Model specifications">
-      <li><strong>1</strong> agent-based model in Julia</li>
-      <li><strong>500 to 1,500</strong> agents</li>
-      <li><strong>50</strong> market conditions, <strong>10</strong> seeds each</li>
-      <li><strong>500</strong> simulated runs</li>
+      <li><strong>1</strong> agent-based model in Julia, with <strong>500 to 1,500</strong> agents</li>
+      <li><strong>161</strong> sweep coordinates covering <strong>98</strong> effective market conditions</li>
+      <li><strong>20</strong> seeds per condition, <strong>50</strong> at baseline</li>
+      <li><strong>1,990</strong> simulated runs</li>
     </ul>
     <p class="tb-model-bridge">Agent-based simulation as a bridge from social theory to testable predictions.</p>
   </div>
@@ -127,7 +127,7 @@ design:
     <p><strong>Broker centrality is endogenous:</strong> clients outsource to the broker because its assessments are valuable, not because its bridging position provides access.</p>
   </div>
   <div class="tb-result-actions">
-    <a href="https://github.com/m-laprise/transientbrokerage"><strong>View the model on GitHub</strong></a>
+    <a href="https://github.com/m-laprise/brokerage-abm"><strong>View the model on GitHub</strong></a>
     <a href="mailto:mlaprise@princeton.edu">Manuscript available on demand</a>
   </div>
 </section>
