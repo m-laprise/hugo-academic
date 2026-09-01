@@ -57,7 +57,7 @@ sections:
 
         {{< abstract "work-transient-brokerage.md" >}}
 
-        **Available:** Manuscript available on demand.
+        **Available:** [Download manuscript (PDF)](https://raw.githubusercontent.com/m-laprise/brokerage-abm/main/output/manuscript/brokers_who_do_not_bridge_with_appendices.pdf).
 
         #### Complex Patterns, Indeterminate Futures, and the Limits of AI for Social Prediction
 

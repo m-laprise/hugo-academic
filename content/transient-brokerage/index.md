@@ -128,6 +128,6 @@ design:
   </div>
   <div class="tb-result-actions">
     <a href="https://github.com/m-laprise/brokerage-abm"><strong>View the model on GitHub</strong></a>
-    <a href="mailto:mlaprise@princeton.edu">Manuscript available on demand</a>
+    <a href="https://raw.githubusercontent.com/m-laprise/brokerage-abm/main/output/manuscript/brokers_who_do_not_bridge_with_appendices.pdf">Download manuscript (PDF)</a>
   </div>
 </section>
