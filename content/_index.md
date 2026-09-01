@@ -65,7 +65,7 @@ sections:
 
         {{< abstract "work-ml-limits.md" >}}
 
-        **Status:** Under consideration at *Sociological Science*; manuscript available on demand.
+        **Status:** Under review at *Sociological Science*; manuscript available on demand.
 
         #### Financial Estrangement
 
