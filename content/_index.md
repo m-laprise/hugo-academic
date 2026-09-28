@@ -106,7 +106,7 @@ sections:
     content:
       title: Teaching
       text: |-
-        My fall 2026 teaching includes **quantitative and computational research methods** workshops for incoming graduate students, including mathematical foundations for social science research and the rigorous and ethical use of agentic AI for research and learning.
+        In the fall 2026, I will teach **quantitative and computational research methods** workshops to incoming graduate students, including mathematical foundations for social science research and the rigorous and ethical use of agentic AI for research and learning.
 
         As a preceptor for the graduate course **Advanced Social Statistics** at Princeton University, I led tutorial sessions for students, held office hours, and supported them with a semester-long replication project and weekly problem sets. I also served as a **guest lecturer** in *Law, Institutions, and Public Policy* and in *Comparative Constitutional Law*, and I acted as preceptor for a variety of undergraduate courses.
 
