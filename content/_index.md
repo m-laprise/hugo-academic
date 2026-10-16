@@ -59,13 +59,13 @@ sections:
 
         **Available:** [Download manuscript (PDF)](https://raw.githubusercontent.com/m-laprise/brokerage-abm/main/output/manuscript/brokers_who_do_not_bridge_with_appendices.pdf).
 
-        #### Complex Patterns, Indeterminate Futures, and the Limits of AI for Social Prediction
+        #### Defining Predictive Estimands: Complex Patterns and Indeterminate Futures in Social Prediction
 
         Drawing on complexity science and information theory, I develop a **pre-modeling framework** for defining **prediction problems** that distinguishes two sources of difficulty, **complexity** and **indeterminacy**, and clarifies the uses and limits of machine learning in social decision-making.
 
         {{< abstract "work-ml-limits.md" >}}
 
-        **Status:** Under review at *Sociological Science*; manuscript available on demand.
+        **Status:** Manuscript available on demand.
 
         #### Financial Estrangement
 
