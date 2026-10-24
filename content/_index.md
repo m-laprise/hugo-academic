@@ -16,7 +16,7 @@ sections:
     content:
       title: Current Research Projects
       text: |-
-        ### Collective Computation in Multi-Agent Networks
+        ### AI for Social Simulation: Collective Computation in Multi-Agent Networks {#collective-computation-in-multi-agent-networks}
 
         {{< current-project-illustration "collective" >}}
 
@@ -24,7 +24,7 @@ sections:
 
         {{< abstract "project-multi-agent-details.md" "Learn more" >}}
 
-        ### Scale-Aware Law for Generative and Agentic AI
+        ### Scale-Aware Legal Design for Generative and Agentic AI {#scale-aware-law-for-generative-and-agentic-ai}
 
         {{< current-project-illustration "scale-aware" >}}
 
@@ -77,13 +77,13 @@ sections:
 
         ### Other Research
 
-        #### How Private Equity Owns America
+        #### The New Private Equity
 
         With Charlie Eaton, Albina Gibadullina, and Adam Goldstein (equal co-authors), I examine how private equity operates as a **corporate raider, Main Street invader, monopoly builder, and shadow owner** across the U.S. economy.
 
         {{< abstract "publication-private-equity-owns-america.md" >}}
 
-        **Status:** Forthcoming as a Roosevelt Institute white paper; under review at *Socio-Economic Review*.
+        **Published:** [Roosevelt Institute white paper (October 22, 2026)](https://rooseveltinstitute.org/publications/the-new-private-equity/); under review at *Socio-Economic Review*.
 
         #### Economic Policies During Times of Crisis
 
