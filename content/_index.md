@@ -73,7 +73,7 @@ sections:
 
         {{< abstract "work-financial-estrangement.md" >}}
 
-        **Status:** Under review at *American Sociological Review*; manuscript available on demand.
+        **Status:** Manuscript available on demand.
 
         ### Other Research
 
